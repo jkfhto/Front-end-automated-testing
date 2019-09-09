@@ -43,5 +43,4 @@
   - [异步代码的测试方法](./note/05.md)
   - [Jest 中的钩子函数](./note/06.md)
   - [钩子函数的作用域](./note/07.md)
-  - Jest 中的 Mock（1）
-  - Jest 中的 Mock（2）
+  - [Jest 中的 Mock](./note/08.md)
