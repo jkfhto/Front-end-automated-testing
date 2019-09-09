@@ -41,7 +41,7 @@
   - [Jest 中的匹配器](./note/03.md)
   - [Jest 命令行工具的使用](./note/04.md)
   - [异步代码的测试方法](./note/05.md)
-  - Jest 中的钩子函数
+  - [Jest 中的钩子函数](./note/06.md)
   - 钩子函数的作用域
   - Jest 中的 Mock（1）
   - Jest 中的 Mock（2）

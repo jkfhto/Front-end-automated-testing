@@ -1,0 +1,9 @@
+{
+    "presets": [
+        ["@babel/preset-env",{
+            "targets":{
+                "node":"current"
+            }
+        }] //增加 ES6 的 babel preset 配置
+    ]
+}
