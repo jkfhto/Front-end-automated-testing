@@ -44,3 +44,9 @@
   - [Jest 中的钩子函数](./note/06.md)
   - [钩子函数的作用域](./note/07.md)
   - [Jest 中的 Mock](./note/08.md)
+- Jest难点进阶
+  - [snapshot 快照测试](./note/09.md)
+  - [mock 深入学习](./note/10.md)
+  - [mock timers](./note/11.md)
+  - [ES6 中类的测试](./note/12.md)
+  - [Jest 中对 DOM 节点操作的测试](./note/13.md)
