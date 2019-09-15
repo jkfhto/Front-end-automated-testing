@@ -53,3 +53,7 @@
 - React中的 TDD 与 单元测试
   - [什么是TDD？](./note/14.md)
   - [Enzyme](./note/15.md)
+
+## 参考
+
+- [前端要学的测试课 从Jest入门到TDD/BDD双实战](https://coding.imooc.com/class/372.html)
